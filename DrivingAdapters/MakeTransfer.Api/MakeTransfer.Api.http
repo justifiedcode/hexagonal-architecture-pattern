@@ -1,0 +1,6 @@
+@MakeTransfer.Api_HostAddress = http://localhost:5183
+
+GET {{MakeTransfer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
