@@ -49,7 +49,7 @@ MakeTransfer/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/MakeTransfer.git
+git clone https://github.com/justifiedcode/hexagonal-architecture-pattern.git
 cd MakeTransfer
 
 # Build the solution
