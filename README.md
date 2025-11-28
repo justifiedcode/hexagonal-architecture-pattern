@@ -67,7 +67,7 @@ http://localhost:5183/swagger
 
 ### Transfer Money Between Accounts
 ```bash
-curl -X POST "https://localhost:7224/api/transfers" \
+curl -X POST "http://localhost:5183/api/transfers" \
   -H "Content-Type: application/json" \
   -d '{
     "fromAccountId": "ACC001",
@@ -80,7 +80,7 @@ curl -X POST "https://localhost:7224/api/transfers" \
 
 ### Check Account Balance
 ```bash
-curl -X GET "https://localhost:7224/api/accounts/ACC001/balance"
+curl -X GET "http://localhost:5183/api/accounts/ACC001/balance"
 ```
 
 ## Sample Data
