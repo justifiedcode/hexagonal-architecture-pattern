@@ -50,7 +50,7 @@ MakeTransfer/
 ```bash
 # Clone the repository
 git clone https://github.com/justifiedcode/hexagonal-architecture-pattern.git
-cd MakeTransfer
+cd hexagonal-architecture-pattern
 
 # Build the solution
 dotnet build
@@ -60,7 +60,7 @@ cd DrivingAdapters/MakeTransfer.Api
 dotnet run
 
 # View the API documentation
-https://localhost:7224/swagger
+http://localhost:5183/swagger
 ```
 
 ## Example Usage
