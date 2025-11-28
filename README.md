@@ -4,7 +4,7 @@ A practical example of hexagonal architecture (ports & adapters pattern) impleme
 
 ## Overview
 
-This repository demonstrates how to structure a .NET application using hexagonal architecture pattern. The code shows clean separation between business logic and external concerns like databases, APIs, and third-party services.
+This repository demonstrates how to structure a .NET application using hexagonal architecture pattern. The code shows clean separation between business logic and external concerns like databases, external APIs, and notification services.
 
 <img width="1864" height="1545" alt="5 example_product_image" src="https://github.com/user-attachments/assets/421a35fd-e166-43d8-a2bd-298b44afe66b" />
 
