@@ -189,4 +189,4 @@ Feel free to download, study, and use this code as a reference for implementing 
 
 - [Hexagonal Architecture by Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)
 - [AWS Hexagonal Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/hexagonal-architecture.html)
-- [Hexagonal Architecture Pattern](https://www.justifiedcode.com/hexagonal-architecture-pattern)
+- [Hexagonal Architecture Pattern (PDF Guide)](https://www.justifiedcode.com/hexagonal-architecture-pattern)
