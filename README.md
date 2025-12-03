@@ -186,7 +186,7 @@ public class PaymentGatewayAdapter : IPaymentOutputPort
 Feel free to download, study, and use this code as a reference for implementing hexagonal architecture in your own projects. The structure and patterns shown here can be adapted to different domains and requirements.
 
 ## Visual Guide (PDF)
-If you prefer a structured explanation, I put together a companion PDF that covers the problem, the solution, the key considerations, when the pattern fits, when it doesn’t, and the system benefits. [Hexagonal Architecture Pattern](https://www.justifiedcode.com/hexagonal-architecture-pattern)
+If you prefer a structured explanation, I put together a companion PDF that covers the problem, the solution, the key considerations, when the pattern fits, when it doesn’t, and the system benefits -> [Hexagonal Architecture Pattern](https://www.justifiedcode.com/hexagonal-architecture-pattern)
 
 ## Learning Resources
 
